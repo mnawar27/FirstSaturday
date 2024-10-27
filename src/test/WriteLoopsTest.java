@@ -17,6 +17,7 @@ public class WriteLoopsTest
      */
     public WriteLoopsTest()
     {
+
     }
 
     /**
